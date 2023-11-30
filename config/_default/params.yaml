@@ -6,6 +6,8 @@
 # Appearance
 
 appearance:
+  mode: light
+  color: blue
   theme_day: massively
   theme_night: massively
   font: lucida calligraphy
