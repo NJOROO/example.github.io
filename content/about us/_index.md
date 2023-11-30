@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: About Us
 
 # Listing view
 view: compact
