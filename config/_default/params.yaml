@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: massively
+  theme_day: nightfall
   theme_night:
-  font: native
+  font: arial
   font_size: L
 
 # SEO
