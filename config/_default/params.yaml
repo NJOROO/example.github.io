@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: 
-  theme_night: massively
+  theme_night: docsy
   font: lucida
   font_size: L
   background: 
