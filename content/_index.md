@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        Phoenix Analytics KE was created in 2022 .
+        \\ **Phoenix Analytics KE was created in 2022 .
   
   - block: collection
     content:
