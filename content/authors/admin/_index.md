@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Susan Gitura
+title: Susan Gatura
 
 # Full Name (for SEO)
 first_name: Susan
