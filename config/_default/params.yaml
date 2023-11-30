@@ -6,10 +6,11 @@
 # Appearance
 
 appearance:
-  theme_day: nightfall
-  theme_night:
-  font: arial
+  theme_day: 
+  theme_night: massively
+  font: lucida
   font_size: L
+  background: 
 
 # SEO
 
