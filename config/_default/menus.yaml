@@ -11,7 +11,7 @@ main:
     url: people
     weight: 20
   - name: About Us
-    url: aboutus
+    url: about us
     weight: 30
     weight: 50
   - name: Contact
