@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: 
-  theme_night: docsy
-  font: lucida
+  theme_day: minimal
+  theme_night: 
+  font: lucida calligraphy
   font_size: L
   background: 
 
