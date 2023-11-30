@@ -9,7 +9,7 @@ appearance:
   mode: light
   color: blue
   theme_day: massively
-  theme_night: massively
+  theme_night: 
   font: lucida calligraphy
   font_size: L
   background: 
