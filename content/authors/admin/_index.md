@@ -1,29 +1,30 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Susan Gitura
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Susan
+last_name: Gatura
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Data Analytics 
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Phoenix Analytics
     url: ''
+  - name: Multichoice Africa
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Analytics
+  - Data Engineering
 
 education:
   courses:
@@ -72,6 +73,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Susan Gatura is a senior data analytics at Multichoice Group Africa.
